@@ -10,7 +10,14 @@
     "require": {
         "magento/product-community-edition": "^2.1.0",
         "composer/composer": "@alpha",
-        "pulsestorm/pestle": "^1.3"
+        "pulsestorm/pestle": "^1.3",
+        "gaussdev/headerlinksdropdown": "^1.0",
+        "gaussdev/bannerslider": "^1.0",
+        "gaussdev/productslider": "^1.0",
+        "gaussdev/brand": "^1.2",
+        "gaussdev/language-hr_HR": "~1.0",
+        "gaussdev/blog": "^1.0"
+
     },
     "require-dev": {
         "phpunit/phpunit": "4.1.0",
