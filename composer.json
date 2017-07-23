@@ -16,7 +16,9 @@
         "gaussdev/productslider": "^1.0",
         "gaussdev/brand": "^1.2",
         "gaussdev/language-hr_HR": "~1.0",
-        "gaussdev/blog": "^1.0"
+        "gaussdev/blog": "^1.0",
+        "snowdog/theme-blank-sass": "^0.10.1",
+        "snowdog/frontools": "^1.4"
 
     },
     "require-dev": {
