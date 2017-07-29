@@ -383,6 +383,10 @@ $form-element-validation__border-error     : lighten($form-validation-note__colo
         border: 0;
         padding: 0;
     }
+    input[type="text"] {
+        border-radius: 5px;
+    }
+
 }
 
 //
